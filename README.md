@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi, I'm Shweta 👋
 
+🎓 B.Sc. IT Graduate (2024)
+💻 Passionate about Web Development & Python  
+🛠️ Created an Online Code Editor (multi-language)  
+🌱 Currently learning backend and MongoDB  
+📂 Check out my projects here on GitHub  
+🚀 Open to internships and junior developer roles
 <!--
 **ShwetaGaud/Shwetagaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
