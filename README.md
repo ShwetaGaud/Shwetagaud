@@ -1,22 +1,29 @@
 # Hi, I'm Shweta 👋
 
-🎓 B.Sc. IT Graduate (2024)
-💻 Passionate about Web Development & Python  
-🛠️ Created an Online Code Editor (multi-language)  
-🌱 Currently learning backend and MongoDB  
-📂 Check out my projects here on GitHub  
-🚀 Open to internships and junior developer roles
-<!--
-**ShwetaGaud/Shwetagaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. IT Student  
+💻 Interested in Python, Data Science & Machine Learning  
+🌐 Interested in Web Development  
+🛠️ Created an Online Code Editor supporting multiple programming languages  
+📚 Currently learning Backend Development & MongoDB  
+🚀 Open to IT Internships and Junior Developer Opportunities
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Pandas & NumPy
+- Machine Learning
+- HTML & CSS
+- Django
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Online Code Editor
+A web-based code editor supporting Python, Java, JavaScript, C++, and PHP.
+
+**Technologies:** Django, Ace Editor
+
+**Features:**
+- Multi-language code editing
+- Syntax highlighting
+- Web-based coding environment
